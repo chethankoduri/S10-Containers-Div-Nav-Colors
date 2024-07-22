@@ -1,0 +1,43 @@
+.playerDiv{
+    background-color: orange;
+    width: 300px;
+    height: 550px;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 20px dashed blue;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px;
+
+
+}
+.playerPic{
+    width: 300px;
+}
+.playerDiv h2{
+    text-align: center;
+}
+.playerDiv p{
+    text-align: justify;
+}
+nav{
+    background-color: violet;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 10px dashed red;
+}
+nav{
+    font-size: 2rem;
+}
+
+#revanthDiv{
+    background-color: rgb(110, 107, 22);
+}
+#KCRDiv{
+    background-color: #db1ad5;
+}
+#kishanReddyDiv{
+    background-color: orangered;
+}
